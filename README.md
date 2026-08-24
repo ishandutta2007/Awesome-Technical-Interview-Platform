@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[CoderPad](https://coderpad.io/)**  
-
-  Leading live collaborative coding interview platform with real-time execution, multi-language support, drawing tools, and replay features designed for in-house technical interviews.
-
-
-
-- **[HackerRank](https://www.hackerrank.com/)**  
-
-  Widely used technical assessment platform offering large question libraries, automated coding tests, live interviews, and analytics for high-volume engineering hiring.
-
-
-
-- **[Codility](https://www.codility.com/)**  
-
-  Enterprise coding assessment platform known for robust test tasks, plagiarism detection, and structured evaluation of programming skills.
-
-
-
-- **[CodeSignal](https://codesignal.com/)**  
-
-  Technical evaluation platform focused on standardized scoring, real-world coding scenarios, and consistent benchmarking across candidates.
-
-
-
-- **[DevSkiller](https://devskiller.com/)**  
-
-  Skills-testing platform that emphasizes real-life coding tasks and work-sample assessments rather than pure algorithmic puzzles.
-
-
-
-- **[Qualified](https://www.qualified.io/)**  
-
-  Technical screening and interview platform combining auto-graded challenges with collaborative coding environments.
-
-
-
-- **[Interviewing.io](https://interviewing.io/)**  
-
-  Anonymous technical interview practice and hiring platform that connects candidates with engineers for realistic mock and real interviews.
-
-
-
-- **[Byteboard](https://byteboard.dev/)**  
-
-  Work-sample and realistic engineering assessment platform designed to evaluate practical coding and problem-solving skills.
-
-
-
-- **[Karat](https://karat.com/)**  
-
-  Interview-as-a-service platform that provides trained human interviewers to conduct technical interviews on behalf of hiring companies.
-
-
-
-- **[CodeSubmit](https://www.codesubmit.io/)**  
-
-  Take-home challenge and coding assessment platform focused on realistic project-based evaluations.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[CoderPad](https://coderpad.io/)** | Leading live collaborative coding interview platform with real-time execution, multi-language support, drawing tools, and replay features designed for in-house technical interviews. | Starts at $79/mo (billed annually) or $99/mo | Free forever plan with 2 interviews/tests per month; 14-day free trial for paid tiers |
+| **[HackerRank](https://www.hackerrank.com/)** | Widely used technical assessment platform offering large question libraries, automated coding tests, live interviews, and analytics for high-volume engineering hiring. | Starter plan starts at $79/mo (billed annually at $948/yr, 60 candidate attempts/yr) or $99/mo | Free forever for individual developers (unlimited practice & certifications); 14-day free trial for hiring platform |
+| **[Codility](https://www.codility.com/)** | Enterprise coding assessment platform known for robust test tasks, plagiarism detection, and structured evaluation of programming skills. | Starter plan starts at $1,200/yr (~$100/mo, 120 test invites/yr) | 7-day free trial (includes up to 15 test invites); no permanent free tier for employers |
+| **[CodeSignal](https://codesignal.com/)** | Technical evaluation platform focused on standardized scoring, real-world coding scenarios, and consistent benchmarking across candidates. | Build plan starts at $79/mo (billed annually at $948/yr, 60 credits/yr) or $99/mo | Free forever on CodeSignal Learn (daily regenerating energy limit); demo/pilot available for hiring teams (no permanent free hiring tier) |
+| **[DevSkiller](https://devskiller.com/)** | Skills-testing platform that emphasizes real-life coding tasks and work-sample assessments rather than pure algorithmic puzzles. | TalentScore plans start at $399/mo (~$4,788/yr billed annually) | 7-day free trial (evaluates up to 15 candidates); no permanent free tier |
+| **[Qualified](https://www.qualified.io/)** | Technical screening and interview platform combining auto-graded challenges with collaborative coding environments. | Starter plans start from ~$100–$300/mo (annual subscription model) | 14-day free trial (includes up to 5 assessment results); no permanent free tier |
+| **[Interviewing.io](https://interviewing.io/)** | Anonymous technical interview practice and hiring platform that connects candidates with engineers for realistic mock and real interviews. | Starts at $115–$179 per mock session (or multi-session coaching packages from $1,500) | Free forever practice problems and recorded interview guides + 1 free peer mock interview on sign-up (earn more by conducting peer mocks) |
+| **[Byteboard](https://byteboard.dev/)** | Work-sample and realistic engineering assessment platform designed to evaluate practical coding and problem-solving skills. | CoreEval pay-per-use starts at $300 per interview ($135/interview with 55% early-stage startup discount) | 14-day free trial for CodeCollab (unlimited collaborative live-coding sessions); no permanent free tier for evaluations |
+| **[Karat](https://karat.com/)** | Interview-as-a-service platform that provides trained human interviewers to conduct technical interviews on behalf of hiring companies. | Pay-per-interview model starting at $200–$450 per conducted interview (volume-based pricing) | Free mock interviews for Black software engineers via Brilliant Black Minds program; pilot trials (up to 10 interviews) for qualified organizations |
+| **[CodeSubmit](https://www.codesubmit.io/)** | Take-home challenge and coding assessment platform focused on realistic project-based evaluations. | Solo plan starts at $49/mo (or $39/mo billed annually, 3 candidate credits/mo); Startup plan at $199/mo | 7-day free trial with sample library assignments (no credit card required upfront); no permanent free tier |
 
 
 
